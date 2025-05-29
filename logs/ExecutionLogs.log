@@ -12,3 +12,8 @@
 27.05.2025 13:05:519,519 INFO  LoginPage:43 - Login button is clicked
 27.05.2025 13:05:941,941 INFO  HomePage:37 - Profile picture link is clicked
 27.05.2025 13:05:109,109 INFO  HomePage:41 - Logged out of application
+29.05.2025 13:05:844,844 INFO  LoginPage:35 - Username is enetered
+29.05.2025 13:05:123,123 INFO  LoginPage:39 - Password is enetered
+29.05.2025 13:05:397,397 INFO  LoginPage:43 - Login button is clicked
+29.05.2025 13:05:921,921 INFO  HomePage:37 - Profile picture link is clicked
+29.05.2025 13:05:35,035 INFO  HomePage:41 - Logged out of application

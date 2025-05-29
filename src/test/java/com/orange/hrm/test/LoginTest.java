@@ -17,12 +17,12 @@ public class LoginTest extends BaseTest {
 		
 		// Apache POI Library
 		
-		//loginPage.loginToApplication(ExcelUtility.getTestData(1, 0), ExcelUtility.getTestData(1,1));
+		loginPage.loginToApplication(ExcelUtility.getTestData(1, 0), ExcelUtility.getTestData(1,1));
 		
 		
 		// Properties class of java
 		
-		loginPage.loginToApplication(PropertiesUtility.getData("username"), PropertiesUtility.getData("password"));
+		//loginPage.loginToApplication(PropertiesUtility.getData("username"), PropertiesUtility.getData("password"));
 	}
 
 }

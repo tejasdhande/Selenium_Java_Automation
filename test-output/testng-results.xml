@@ -2,26 +2,26 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-27T13:36:27 IST" name="Suite" finished-at="2025-05-27T13:36:33 IST" duration-ms="5361">
+  <suite started-at="2025-05-29T13:18:06 IST" name="Suite" finished-at="2025-05-29T13:18:12 IST" duration-ms="5822">
     <groups>
     </groups>
-    <test started-at="2025-05-27T13:36:27 IST" name="Test" finished-at="2025-05-27T13:36:33 IST" duration-ms="5361">
+    <test started-at="2025-05-29T13:18:06 IST" name="Test" finished-at="2025-05-29T13:18:12 IST" duration-ms="5822">
       <class name="com.orange.hrm.test.LoginTest">
-        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.orange.hrm.test.LoginTest@49438269]" started-at="2025-05-27T13:36:22 IST" name="beforeSuite" finished-at="2025-05-27T13:36:23 IST" duration-ms="298" status="PASS">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.orange.hrm.test.LoginTest@49438269]" started-at="2025-05-29T13:18:00 IST" name="beforeSuite" finished-at="2025-05-29T13:18:00 IST" duration-ms="299" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method is-config="true" signature="initDriver()[pri:0, instance:com.orange.hrm.test.LoginTest@49438269]" started-at="2025-05-27T13:36:23 IST" name="initDriver" finished-at="2025-05-27T13:36:27 IST" duration-ms="4870" status="PASS">
+        <test-method is-config="true" signature="initDriver()[pri:0, instance:com.orange.hrm.test.LoginTest@49438269]" started-at="2025-05-29T13:18:00 IST" name="initDriver" finished-at="2025-05-29T13:18:06 IST" duration-ms="5567" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initDriver -->
-        <test-method signature="loginWithValidUserAndPassword()[pri:0, instance:com.orange.hrm.test.LoginTest@49438269]" started-at="2025-05-27T13:36:27 IST" name="loginWithValidUserAndPassword" finished-at="2025-05-27T13:36:30 IST" duration-ms="2729" status="PASS">
+        <test-method signature="loginWithValidUserAndPassword()[pri:0, instance:com.orange.hrm.test.LoginTest@49438269]" started-at="2025-05-29T13:18:06 IST" name="loginWithValidUserAndPassword" finished-at="2025-05-29T13:18:09 IST" duration-ms="3235" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginWithValidUserAndPassword -->
       </class> <!-- com.orange.hrm.test.LoginTest -->
       <class name="com.orange.hrm.test.HomePageTest">
-        <test-method signature="logout()[pri:0, instance:com.orange.hrm.test.HomePageTest@5dda768f]" started-at="2025-05-27T13:36:30 IST" name="logout" finished-at="2025-05-27T13:36:33 IST" duration-ms="2596" status="PASS">
+        <test-method signature="logout()[pri:0, instance:com.orange.hrm.test.HomePageTest@5dda768f]" started-at="2025-05-29T13:18:09 IST" name="logout" finished-at="2025-05-29T13:18:12 IST" duration-ms="2519" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->
