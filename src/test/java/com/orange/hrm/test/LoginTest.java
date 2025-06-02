@@ -15,7 +15,7 @@ public class LoginTest extends BaseTest {
 	public void loginWithValidUserAndPassword() throws InvalidFormatException, IOException {
 		LoginPage loginPage = new LoginPage();
 		
-		// Apache POI Library
+		// Apache POI Library.
 		
 		//loginPage.loginToApplication(ExcelUtility.getTestData(1, 0), ExcelUtility.getTestData(1,1));
 		
